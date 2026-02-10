@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d1a6998491ca0027",
+    "type": "split",
+    "children": [
+      {
+        "id": "50129fad662cc64e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58a4f336131f6506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fleeting/obsidian stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian stuff"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd0dfeafa03ea8b7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "686d31685a04c157",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1edca3f324aa03f9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "72f5ca588d9734ea",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "90daaecb3f341fe7",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "500e6545effe4574",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "24a20adf6baa2105",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e4e7d9f1a46c8912",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "anime/Vagabond.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "293bf3ea46f610c2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "anime/Vagabond.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "de53962c5e55e364",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "anime/Vagabond.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "58a4f336131f6506",
+  "lastOpenFiles": [
+    "fleeting/discipline of perception.md",
+    "fleeting/obsidian stuff.md",
+    "fleeting/learn about journaling.md",
+    "fleeting/vagabond reading session 9 feb 2026.md",
+    "thoughts/Boredom Tolerance/Boredom Tolerance - How to improve it..md",
+    "thoughts/The Pattern Principle.md",
+    "literature/Vagabond.md",
+    "fleeting",
+    "projects/SelfForge.md"
+  ]
+}
