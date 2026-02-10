@@ -1,0 +1,1 @@
+finish re-reading [[Vagabond (1998)]] and properly put into words the distinction between musashi and matahachi and take important notes.
