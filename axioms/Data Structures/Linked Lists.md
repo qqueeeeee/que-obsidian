@@ -48,7 +48,7 @@ The insert/delete being O(1) is only true once you're already at the position. T
 
 When you're doing a lot of insertions and deletions and don't need random access. Good examples are implementing stacks, queues, or anything where you're constantly adding/removing from the ends.
 
-In practice, arrays (vectors) are often faster in the real world even for insertions because of [[Cache Locality]]. Memory that's contiguous is faster to access because of how CPU caches work. Linked list nodes are scattered in memory so every hop is potentially a cache miss. Worth knowing even if it doesn't change DSA problem solving much.
+In practice, [[Arrays]] (vectors) are often faster in the real world even for insertions because of [[Cache Locality]]. Memory that's contiguous is faster to access because of how CPU caches work. Linked list nodes are scattered in memory so every hop is potentially a cache miss. Worth knowing even if it doesn't change DSA problem solving much.
 
 ---
 
