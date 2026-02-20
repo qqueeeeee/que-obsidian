@@ -134,5 +134,3 @@ l.pop_back();
 ---
 
 Linked lists are also the foundation for [[Stacks]] and [[Queues]], which are just linked lists with restricted access patterns.
-
-**Next up → [[Stacks]]**
