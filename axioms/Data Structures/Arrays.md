@@ -108,6 +108,4 @@ insert() and erase() take iterators not indices. v.begin() + i gets you the iter
 
 ---
 
-Arrays are the bedrock. Almost every other data structure either builds on top of them or exists because of their limitations.
-
-**Next up → [[Linked Lists]]**
+Almost every other data structure either builds on top of Arrays or exists because of their limitations.
