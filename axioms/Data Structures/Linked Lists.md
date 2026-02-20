@@ -51,24 +51,6 @@ When you're doing a lot of insertions and deletions and don't need random access
 In practice, [[Arrays]] (vectors) are often faster in the real world even for insertions because of [[Cache Locality]]. Memory that's contiguous is faster to access because of how CPU caches work. Linked list nodes are scattered in memory so every hop is potentially a cache miss. Worth knowing even if it doesn't change DSA problem solving much.
 
 ---
-
-## The Pointer Rewiring Mental Model
-
-Every linked list operation is just pointer rewiring. Once you internalize this, every operation becomes obvious.
-
-Insert a node between A and C:
-1. New node's next points to C
-2. A's next points to new node
-Order matters here. If you do step 2 first you lose the reference to C.
-
-Delete node B between A and C:
-1. A's next points to C
-2. Delete B
-
-That's it. Every linked list problem reduces to this.
-
----
-
 ## In C++
 
 You define a Node struct and build the list by wiring nodes together manually. The list itself just needs to keep track of the head (and optionally tail).
